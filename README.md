@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @kumar-harshh
-- 👀 I’m interested in Data Science & Analytics
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Agritech Project
 - 📫 How to reach me kh425718@gmail.com
 
 <!---
