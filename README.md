@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Kumar Harsh</h1>
 <h3>A passionate Engineer & Learner</h3>
 
-<img src="https://github.com/kumar-harshh/kumar-harshh/assets/88376961/2db44fcb-a51b-4d46-b369-eb6616ec6531" alt="img">
+<!--img src="https://github.com/kumar-harshh/kumar-harshh/assets/88376961/2db44fcb-a51b-4d46-b369-eb6616ec6531" alt="img"-->
 
 - 🔭 I’m currently working at **Oracle**
 
